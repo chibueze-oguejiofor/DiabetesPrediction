@@ -1,0 +1,1 @@
+A python scrip to predict whether or not a pregnant woman has diabetes or not by using her age, Glucose level, Skin thickness, number of previous pregancies etc to build the predicive model. the idea was to observe the effect of standardization and dimensionality reduction using PCA on model performance.
